@@ -1,1 +1,2 @@
-File created right aftert git init
+File created right aftert git init.
+modified 2nd time, first commit somehow lost
